@@ -28,9 +28,10 @@ EPTC is a script written by me for simplifying unity's particle system trigger c
 
 ![image](https://user-images.githubusercontent.com/82342866/204169283-b83c06fd-f59b-40cd-ae49-4e2c19919c8d.png)
 
-+ Open a script where you want to detect collisions, implement namespace and IParticleTrigger interface.
++ Open a script where you want to detect collisions, implement Fisekoo namespace and IParticleTrigger interface.
 
-![image](https://user-images.githubusercontent.com/82342866/204169608-a4653e58-0111-4cf9-b1f9-4462af832988.png)
+![image](https://user-images.githubusercontent.com/82342866/204180681-56ef4ab5-c977-4d1f-ae3a-dfdf8d9fbcb1.png)
+
 
 ## Accessing and modifying collided particle
 ```csharp
