@@ -2,7 +2,7 @@ using System.Linq;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Fisekoo.ParticleTriggerEvents
+namespace Fisekoo
 {
     [RequireComponent(typeof(ParticleSystem))]
     public class ParticleTriggerEventHandler : MonoBehaviour
