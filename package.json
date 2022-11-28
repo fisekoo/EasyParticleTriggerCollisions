@@ -1,0 +1,23 @@
+{
+  "name": "com.fisekoo.easy-particle-collisions",
+  "displayName": "Easy Particle Trigger Collisions",
+  "description": "Simplifys unity's default particle trigger collision system.",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonerpayne/EasyParticleTriggerCollisions.git"
+  },
+  "author": {
+    "name": "fisekoo",
+    "email": "sonerpayne@gmail.com",
+    "url": "https://github.com/fisekoo"
+  },
+  "dependencies": {},
+  "keywords": [
+    "collision",
+    "particle",
+    "trigger"
+  ]
+}
