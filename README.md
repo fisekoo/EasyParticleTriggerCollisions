@@ -20,9 +20,15 @@ EPTC is a script written by me for simplifying unity's particle system trigger c
 ![layerMaskingGif](https://user-images.githubusercontent.com/82342866/204168922-d55390cb-8d49-4075-b5dd-7453f88b99f6.gif)
 
 ## Initialization 💻
-+ Add ParticleTriggerEvents folder to your project.
++ Import this package following Window > Package Manager > Add package from git URL
 
-![image](https://user-images.githubusercontent.com/82342866/204169164-5bb64253-2cf6-4118-8b2b-2552ec87db00.png)
+![image](https://user-images.githubusercontent.com/82342866/204181218-fec8ba47-8ab4-4cf6-b599-c74e67713226.png)
+
++ Copy this link and paste it to required area https://github.com/fisekoo/EasyParticleTriggerCollisions.git
+
+<img src="https://user-images.githubusercontent.com/82342866/204181517-9c40e895-8211-4bbb-812a-1e360b6baeda.png" width="250" height="156,83"/>
+
+![image](https://user-images.githubusercontent.com/82342866/204181693-9b20694d-4750-4f83-a1f8-22d801faa4e7.png)
 
 + Create a Particle System object, add Particle Trigger Event Handler component to it and set layers.
 
