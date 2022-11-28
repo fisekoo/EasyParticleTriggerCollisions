@@ -1,4 +1,4 @@
-namespace ParticleTriggerEvents
+namespace Fisekoo.ParticleTriggerEvents
 {
     // Implement this for collision detection.
     public interface IParticleTrigger
